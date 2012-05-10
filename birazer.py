@@ -1,12 +1,12 @@
 #!/usr/bin/python
 #########################################################
-# Application Birazer									#
-# =========== =======									#
-# Search empty folders with a specified					#
-# directory, it can erase it too. 						#
-#														#
-# C0d3r: Julian Alexader Murillo (Lexinerus)			#
-# 05-Abr-2012											#
+# Application Birazer								
+# =========== =======						
+# Search empty folders with a specified		
+# directory, it can erase it too. 	
+#							
+# C0d3r: Julian Alexader Murillo (Lexinerus)		
+# 05-Apr-2012										
 #########################################################
 import os
 import sys
