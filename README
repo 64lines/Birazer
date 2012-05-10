@@ -1,0 +1,5 @@
+	*** Birazer 0.1 - Delete empty directories quickly! ***
+
+ (!) -h, --help		Show this message.
+ (!) -r, --recursive	Search inside of every directory of this directory.
+
